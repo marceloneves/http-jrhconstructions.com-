@@ -1,3 +1,230 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/accessory-dwelling-unit-adu-in-cambridge",
+      "destination": "/services/accessory-dwelling-unit-adu-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-in-malden",
+      "destination": "/services/accessory-dwelling-unit-adu-in-malden",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-in-newton",
+      "destination": "/services/accessory-dwelling-unit-adu-in-newton",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-in-peabody",
+      "destination": "/services/accessory-dwelling-unit-adu-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-in-quincy",
+      "destination": "/services/accessory-dwelling-unit-adu-in-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-in-sommerville",
+      "destination": "/services/accessory-dwelling-unit-adu-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/accessory-dwelling-unit-adu-service",
+      "destination": "/services/accessory-dwelling-unit-adu-service",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-boston",
+      "destination": "/services/bathroom-remodeling-in-boston",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-cambridge",
+      "destination": "/services/bathroom-remodeling-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-malden",
+      "destination": "/services/bathroom-remodeling-in-malden",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-peabody",
+      "destination": "/services/bathroom-remodeling-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-quincy",
+      "destination": "/services/bathroom-remodeling-in-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-in-sommerville",
+      "destination": "/services/bathroom-remodeling-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/bathroom-remodeling-service",
+      "destination": "/services/bathroom-remodeling-service",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-boston",
+      "destination": "/services/full-remodeling-in-boston",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-cambridge",
+      "destination": "/services/full-remodeling-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-malden",
+      "destination": "/services/full-remodeling-in-malden",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-newton",
+      "destination": "/services/full-remodeling-in-newton",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-peabody",
+      "destination": "/services/full-remodeling-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-quincy",
+      "destination": "/services/full-remodeling-in-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-in-sommerville",
+      "destination": "/services/full-remodeling-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/full-remodeling-service",
+      "destination": "/services/full-remodeling-service",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-in-boston",
+      "destination": "/services/home-additions-in-boston",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-in-cambridge",
+      "destination": "/services/home-additions-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-in-newton",
+      "destination": "/services/home-additions-in-newton",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-in-peabody",
+      "destination": "/services/home-additions-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-in-sommerville",
+      "destination": "/services/home-additions-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-quincy",
+      "destination": "/services/home-additions-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/home-additions-service",
+      "destination": "/services/home-additions-service",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodelin-in-boston",
+      "destination": "/services/kitchen-remodelin-in-boston",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-cambridge",
+      "destination": "/services/kitchen-remodeling-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-malden",
+      "destination": "/services/kitchen-remodeling-in-malden",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-newton",
+      "destination": "/services/kitchen-remodeling-in-newton",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-peabody",
+      "destination": "/services/kitchen-remodeling-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-quincy",
+      "destination": "/services/kitchen-remodeling-in-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-in-sommerville",
+      "destination": "/services/kitchen-remodeling-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/kitchen-remodeling-service",
+      "destination": "/services/kitchen-remodeling-service",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-boston",
+      "destination": "/services/painting-in-boston",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-cambridge",
+      "destination": "/services/painting-in-cambridge",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-malden",
+      "destination": "/services/painting-in-malden",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-newton",
+      "destination": "/services/painting-in-newton",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-peabody",
+      "destination": "/services/painting-in-peabody",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-quincy",
+      "destination": "/services/painting-in-quincy",
+      "permanent": true
+    },
+    {
+      "source": "/painting-in-sommerville",
+      "destination": "/services/painting-in-sommerville",
+      "permanent": true
+    },
+    {
+      "source": "/painting-service",
+      "destination": "/services/painting-service",
+      "permanent": true
+    }
+  ]
 }
