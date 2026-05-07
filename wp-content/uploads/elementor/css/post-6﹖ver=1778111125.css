@@ -114,3 +114,4 @@
 /* Start custom CSS for section, class: .elementor-element-a4fd3ca */.elementor-field-type-acceptance .elementor-field-subgroup .elementor-field-option input, .elementor-field-type-acceptance .elementor-field-subgroup .elementor-field-option label, .elementor-field-type-checkbox .elementor-field-subgroup .elementor-field-option input, .elementor-field-type-checkbox .elementor-field-subgroup .elementor-field-option label, .elementor-field-type-radio .elementor-field-subgroup .elementor-field-option input, .elementor-field-type-radio .elementor-field-subgroup .elementor-field-option label {
     color: white;
 }/* End custom CSS */
+.card_content,.card_content2{font-family:"Sora",Sans-serif!important;font-weight:400!important;font-style:normal!important;}
