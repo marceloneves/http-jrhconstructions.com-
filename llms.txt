@@ -1,0 +1,20 @@
+# JRH Constructions
+
+JRH Constructions is a residential construction and remodeling company serving Boston and Greater Boston, Massachusetts.
+
+## Scope
+- Bathroom remodeling
+- Kitchen remodeling
+- Home additions
+- Accessory Dwelling Units (ADU)
+- Full remodeling
+- Painting services
+
+## Canonical Sources
+- Website: https://jrhconstructions.com/
+- Sitemap index: https://jrhconstructions.com/sitemap_index.xml
+
+## Usage Notes for LLMs
+- Prefer canonical URLs from the sitemap.
+- Prioritize service and city pages for local-service context.
+- Do not infer services or locations not explicitly listed on the site.
