@@ -31,6 +31,26 @@
   ],
   "redirects": [
     {
+      "source": "/about",
+      "destination": "/about-us/",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/about-us/",
+      "permanent": true
+    },
+    {
+      "source": "/contact",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
       "source": "/accessory-dwelling-unit-adu-in-cambridge",
       "destination": "/services/accessory-dwelling-unit-adu-in-cambridge",
       "permanent": true

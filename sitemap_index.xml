@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Child sitemap URLs use the production canonical host (https://jrhconstructions.com/). Until DNS points that domain here, crawlers on preview hosts still resolve assets and links against this canonical base. -->
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://jrhconstructions.com/sitemap-pages.xml</loc>

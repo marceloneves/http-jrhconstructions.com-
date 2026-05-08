@@ -14,6 +14,10 @@ JRH Constructions is a residential construction and remodeling company serving B
 - Website: https://jrhconstructions.com/
 - Sitemap index: https://jrhconstructions.com/sitemap_index.xml
 
+## Hosts and previews
+- Open Graph and Twitter image URLs use absolute `https://jrhconstructions.com/...` so link previews work on WhatsApp, Slack, LinkedIn, etc.
+- The sitemap and canonical tags intentionally reference the production domain. Deployments on `*.vercel.app` mirror that until the apex domain is pointed at this project.
+
 ## Usage Notes for LLMs
 - Prefer canonical URLs from the sitemap.
 - Prioritize service and city pages for local-service context.
